@@ -1,0 +1,12 @@
+{
+  "name": "jsb-adapter",
+  "version": "1.0.0",
+  "reload": {
+    "ignore": [
+      "**/*"
+    ]
+  },
+  "dependencies": {
+    "gulp": "^4.0.0"
+  }
+}
